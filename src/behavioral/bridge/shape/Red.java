@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package behavioral.bridge.shape;
 
 public class Red implements Color{
     @Override

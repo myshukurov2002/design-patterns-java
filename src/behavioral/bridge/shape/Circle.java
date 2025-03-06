@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package behavioral.bridge.shape;
 
 public class Circle extends Shape{
 
@@ -7,7 +7,7 @@ public class Circle extends Shape{
     }
 
     @Override
-    void draw() {
+    public void draw() {
         System.out.println("Circle");
     }
 }

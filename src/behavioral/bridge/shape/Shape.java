@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package behavioral.bridge.shape;
 
 public abstract class Shape {
 
@@ -8,5 +8,5 @@ public abstract class Shape {
         this.color = color;
     }
 
-    abstract void draw();
+    public abstract void draw();
 }

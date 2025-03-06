@@ -1,4 +1,4 @@
-package behavioral.bridge;
+package behavioral.bridge.shape;
 
 public interface Color {
 
