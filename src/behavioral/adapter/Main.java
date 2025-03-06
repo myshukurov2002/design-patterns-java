@@ -13,5 +13,7 @@ public class Main {
 
         USBToTypeCAdapter adapter = new USBToTypeCAdapter(new USBPortImpl());
         adapter.connectTypeC();
+
+
     }
 }
