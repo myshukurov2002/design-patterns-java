@@ -7,5 +7,7 @@ public class Main {
 
         circle.draw();
         rectangle.draw();
+
+
     }
 }
