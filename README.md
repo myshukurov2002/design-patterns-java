@@ -1,6 +1,6 @@
 # Design Patterns in Java
 
-Bu repozitoriyda barcha design patternlarning Java dasturlash tilidagi implementatsiyalari jamlangan. Har bir pattern alohida katalogda joylashgan va tushuntirish bilan birga keladi.
+Bu repozitoriyda barcha design patternlarning Java dasturlash tilidagi implementatsiyalari jamlangan. Har bir pattern alohida katalogda examplelar joylashgan va tushuntirish bilan birga keladi.
 
 ## 📌 Tarkib
 
@@ -29,10 +29,10 @@ Loyihani ishga tushirish uchun quyidagi qadamlarni bajaring:
 
 1️⃣ Repozitoriyani klonlash:
    ```sh
-   git clone https://github.com/myshukurov2002/design-patterns.git
+   git clone https://github.com/myshukurov2002/design-patterns-java.git
    cd design-patterns
    ```
-2️⃣ Maven yoki Gradle orqali kerakli bog‘liqliklarni yuklash.
+2️⃣ Maven yoki Gradle orqali kerakli dependencylarni yuklash.
 3️⃣ Har bir pattern alohida `main` metodi orqali ishga tushirilishi mumkin.
 
 ## 🤝 Hissa qo‘shish
