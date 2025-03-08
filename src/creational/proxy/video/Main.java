@@ -1,4 +1,4 @@
-package creational.proxy;
+package creational.proxy.video;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package creational.proxy;
+package creational.proxy.video;
 
 public class RealVideo implements Video {
 
